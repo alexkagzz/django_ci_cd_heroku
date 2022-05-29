@@ -1,5 +1,5 @@
 # Django CI/CD pipeline for Heroku using Github Actions
-This repo was used for a tutorial on Django CI/CD Pipeline. A simple approach was followed for education purpose on which has been represented below.
+This is a clone repo that was used for a tutorial on Django CI/CD Pipeline. A simple approach was followed for education purpose on which has been represented below.
 
 ![CI/CD Flow](https://techflow360.com/wp-content/uploads/2021/08/CI_CD.svg)
 
